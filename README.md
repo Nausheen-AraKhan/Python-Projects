@@ -56,7 +56,6 @@ Additional projects will be added as I continue learning and improving my Python
 
 **Nausheen Ara Khan**
 
-* GitHub: https://github.com/YOUR_USERNAME
 * LinkedIn: https://www.linkedin.com/in/nausheen-ara-khan-a18811397
 
 ---
