@@ -20,7 +20,7 @@ This repository contains projects developed while completing a comprehensive Pyt
 ### Beginner Projects
 
 * Tip Calculator
-* BMI Calculator
+* Treasure Hunt
 * Password Generator
 * Rock Paper Scissors
 * Hangman
