@@ -17,8 +17,6 @@ This repository contains projects developed while completing a comprehensive Pyt
 
 ## Projects Included
 
-### Beginner Projects
-
 * Tip Calculator
 * Treasure Hunt
 * Password Generator
