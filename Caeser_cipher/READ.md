@@ -31,26 +31,6 @@ This project allows users to:
 
 * Python 3
 
-## ▶️ How to Run
-
-1. Clone this repository:
-
-```bash
-git clone https://github.com/your-username/Python-Projects.git
-```
-
-2. Navigate to the project directory:
-
-```bash
-cd Caesar-Cipher
-```
-
-3. Run the program:
-
-```bash
-python main.py
-```
-
 ## 📂 Project Structure
 
 ```text
