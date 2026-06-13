@@ -10,7 +10,7 @@ while yes_no == "YES":
     if yes_no == "NO":
         break
     else:
-        print("\n"*50)
+        print("\n"*30)
 
 winner=max(auction_bit, key=auction_bit.get)
 print(f"The winner is {winner} with a bid of ${auction_bit[winner]}")
