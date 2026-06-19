@@ -17,11 +17,12 @@ This repository contains projects developed while completing a comprehensive Pyt
 
 ## Projects Included
 
-* Tip Calculator
+* BlackJack
 * Treasure Hunt
-* Password Generator
+* Coffee Machine
 * Rock Paper Scissors
 * Hangman
+* Caeser Cipher
 
 ### More Projects
 
