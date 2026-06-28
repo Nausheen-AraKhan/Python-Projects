@@ -23,6 +23,7 @@ This repository contains projects developed while completing a comprehensive Pyt
 * Rock Paper Scissors
 * Hangman
 * Caeser Cipher
+* Hirst Painting
 
 ### More Projects
 
