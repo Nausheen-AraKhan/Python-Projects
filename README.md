@@ -24,6 +24,8 @@ This repository contains projects developed while completing a comprehensive Pyt
 * Hangman
 * Caeser Cipher
 * Hirst Painting
+* Etch A Sketch
+* Turtle Race Game
 
 ### More Projects
 
