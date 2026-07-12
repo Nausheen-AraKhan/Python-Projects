@@ -18,6 +18,7 @@ This repository contains projects developed while completing a comprehensive Pyt
 ## Projects Included
 
 * BlackJack
+* Pong Game
 * Treasure Hunt
 * Coffee Machine
 * Rock Paper Scissors
