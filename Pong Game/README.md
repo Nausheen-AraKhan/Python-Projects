@@ -13,7 +13,7 @@ A classic **Pong Game** built using **Python** and the **Turtle** graphics libra
 
 ## 🛠️ Built With
 
-- Python 3
+- Python 
 - Turtle Graphics
 
 ## 📂 Project Structure
