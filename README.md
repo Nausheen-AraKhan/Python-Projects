@@ -27,6 +27,8 @@ This repository contains projects developed while completing a comprehensive Pyt
 * Hirst Painting
 * Etch A Sketch
 * Turtle Race Game
+* Mail Merge Project
+* USA State Game
 
 ### More Projects
 
